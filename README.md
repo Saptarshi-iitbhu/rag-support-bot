@@ -98,3 +98,5 @@ The app will be available at `http://localhost:5173`.
 │ └── requirements.txt # Python Dependencies
 └── README.md
 ```
+## Preview Video
+[Preview Video.mp4](https://github.com/Saptarshi-iitbhu/rag-support-bot/blob/main/Preview%20Video.mp4)
