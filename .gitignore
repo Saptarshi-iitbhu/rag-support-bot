@@ -1,0 +1,12 @@
+# Backend
+server/.env
+server/chat_sessions.db
+
+# Frontend
+client/node_modules/
+client/dist/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store

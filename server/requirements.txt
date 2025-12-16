@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sqlalchemy
+python-dotenv
+openai
+pydantic
+scikit-learn
+pandas
+numpy
+datasets
+
